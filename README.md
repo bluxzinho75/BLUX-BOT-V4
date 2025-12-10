@@ -1,44 +1,60 @@
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=🜛+𝐁𝐋𝐔𝐗-𝐁𝐎𝐓-𝐕𝟐+🜛;۞+𝙊𝙁𝘾+𝙐𝙋𝘿𝘼𝙏𝙀+۞;@𝑩𝒍𝒖𝒙𝒛𝒊𝒏𝒉𝒐">      
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=🜛+𝐁𝐋𝐔𝐗-𝐁𝐎𝐓-𝐕𝟒+🜛;۞+𝙊𝙁𝘾+𝙐𝙋𝘿𝘼𝙏𝙀+۞;@𝑩𝒍𝒖𝒙𝒛𝒊𝒏𝒉𝒐">
 
 <h1 align="center">
 <p>
-<img src= "https://files.catbox.moe/je772o.jpeg" alt="𝐁𝐋𝐔𝐗 𝐁𝐎𝐓 𝐕𝟐" width="720">
+<img src="https://files.catbox.moe/rcpzre.jpeg" alt="𝐁𝐋𝐔𝐗 𝐁𝐎𝐓 𝐕𝟒" width="720">
 </p>
 
 <p align="center">
-<a href="#"><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blue?&style=for-the-badge"></a>
+<a><img title="BOT-MULTI-DEVICE" src="https://img.shields.io/badge/BOT•MULTI•DEVICE-blue?style=for-the-badge"></a>
 </p>
 
 <p align="center">
-<img title="Autor" src="https://img.shields.io/badge/Autor-@bluxzinho_-orange.svg?style=for-the-badge&logo=github"></a>
-<img title="Versão" src="https://img.shields.io/badge/Versão-2.0.0-orange.svg?style=for-the-badge&logo=github"></a>
+<img title="Autor" src="https://img.shields.io/badge/Autor-@bluxzinho_-orange?style=for-the-badge&logo=github">
+<img title="Versão" src="https://img.shields.io/badge/Versão-4.0.0-orange?style=for-the-badge&logo=github">
+<img title="Hospedagem" src="https://img.shields.io/badge/Hospedado_em-loja.nextshost.com-green?style=for-the-badge&logo=cloudflare">
 </p>
 
-## Instalação Via Termux  <img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
-**1° Comando**
+<h2 align="center">🚀 INSTALAÇÃO VIA TERMUX</h2>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/108157095/182052725-6568419a-6a9f-490a-85ea-90b94af694fe.png" height="25px">
+</p>
+
+<h3>📌 1º Comando</h3>
+
 ```
 apt-get update -y && pkg upgrade -y && pkg update -y && pkg install nodejs -y && pkg install nodejs-lts -y && pkg install ffmpeg -y && pkg install wget -y && pkg install tesseract -y && pkg install git -y
 ```
-**ATENÇÃO:**
-Será necessário digitar y toda vez que pedir a caixa [y/n]
----------------------------
 
-**2° Comando**
+**Atenção:** digite **y** quando aparecer `[y/n]`.
+
+<h3>📌 2º Comando</h3>
+
 ```
 termux-setup-storage
 ```
-**3° Comando**
+
+<h3>📌 3º Comando</h3>
+
 ```
-cd /sdcard && git clone https://github.com/bluxzinho74/BLUX-BOT-V2
-```
-**4° Comando**
-```
-cd BLUX-BOT-V2 && npm start
+cd /sdcard && git clone https://github.com/bluxzinho74/BLUX-BOT-V4
 ```
 
-## 💾 START DO BOT 💾 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
+<h3>📌 4º Comando</h3>
+
+```
+cd BLUX-BOT-V4 && npm start
+```
+
+<h2 align="center">💾 START DO BOT</h2>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
+</p>
+
 ```
 npm start
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★𝐁𝐋𝐔𝐗-𝐁𝐎𝐓-𝐕𝟐★•╯"> # BLUX-BOT-V4
+<img src="https://readme-typing-svg.herokuapp.com/?font=mono&size=30&duration=4000&color=00008b&center=falso&vCenter=falso&lines=╰•★𝐁𝐋𝐔𝐗-𝐁𝐎𝐓-𝐕𝟒★•╯">
