@@ -12,7 +12,9 @@
 <p align="center">
 <img title="Autor" src="https://img.shields.io/badge/Autor-@bluxzinho_-orange?style=for-the-badge&logo=github">
 <img title="Versão" src="https://img.shields.io/badge/Versão-4.0.0-orange?style=for-the-badge&logo=github">
-<img title="Hospedagem" src="https://img.shields.io/badge/Hospedado_em-loja.nextshost.com-green?style=for-the-badge&logo=cloudflare">
+<a href="https://loja.nextshost.com">
+<img title="Hospedagem" src="https://img.shields.io/badge/Next%20Hosting-loja.nextshost.com-green?style=for-the-badge&logo=cloudflare">
+</a>
 </p>
 
 <h2 align="center">🚀 INSTALAÇÃO VIA TERMUX</h2>
