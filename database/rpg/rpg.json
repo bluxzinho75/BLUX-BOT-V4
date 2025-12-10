@@ -1,0 +1,32 @@
+[
+  {
+    "numero": "5511910924069@s.whatsapp.net",
+    "nome": "kauan",
+    "idade": 27,
+    "bluxcoins": 210,
+    "banco": "Wells Fargo",
+    "taxaBanco": 2,
+    "chavePix": "kauan@blux.com",
+    "email": "kauan@blux.com",
+    "registrado_em": "2025-09-13T19:43:56.300Z",
+    "cassinoRodadas": 4
+  },
+  {
+    "numero": "558189728863@s.whatsapp.net",
+    "nome": "blux",
+    "idade": 37,
+    "bluxcoins": 5962,
+    "banco": "Caixa Econômica",
+    "taxaBanco": 15,
+    "chavePix": "blux@blux.com",
+    "email": "blux@blux.com",
+    "registrado_em": "2025-11-20T15:36:36.808Z",
+    "level": 10,
+    "xp": 466,
+    "ultimoEmprego": 1763653338426,
+    "ultimoInfluencer": 1763653390003,
+    "seguidores": 600,
+    "fama": 5,
+    "itens": []
+  }
+]
