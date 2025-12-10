@@ -40,7 +40,7 @@ termux-setup-storage
 <h3>📌 3º Comando</h3>
 
 ```
-cd /sdcard && git clone https://github.com/bluxzinho74/BLUX-BOT-V4
+cd /sdcard && git clone https://github.com/bluxzinho75/BLUX-BOT-V4
 ```
 
 <h3>📌 4º Comando</h3>
